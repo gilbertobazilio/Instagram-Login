@@ -36,7 +36,7 @@
     height: 50rem;
   }
   
-  .instagram-continue {
+  .instagram-continuar {
     display: flex;
     align-items: center; /* horizontal */
     justify-content: space-around; /* vertical */
@@ -120,11 +120,12 @@
   }
   
   .app-download:nth-child(1) {
-    background-image: url('./img/applestore.jpg');
+    background-image: url('./img/applestore.png');
   }
   
   .app-download:nth-child(2) {
-    background-image: url('./img/google-play.png');
+    background-image: url('./img/google-play-store2.png');
+    
   }
 
   /* media queries */
